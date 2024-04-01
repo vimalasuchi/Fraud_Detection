@@ -17,3 +17,8 @@ def div(a,b):
     e=a/b
     return e
 print("Division of a & b", e)
+
+def sub(a,b):
+    f=a-b
+    return f
+print("Subtraction of a & b", f)
